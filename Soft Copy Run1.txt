@@ -1,0 +1,29 @@
+Enter -1 to End.
+How much is 6 times 2 (-1 to End)? 12
+Keep up the good work!
+
+How much is 0 times 1 (-1 to End)? 0
+Very good!
+
+How much is 5 times 0 (-1 to End)? 0
+Nice work!
+
+How much is 0 times 9 (-1 to End)? 0
+Nice work!
+
+How much is 4 times 5 (-1 to End)? 20
+Nice work!
+
+How much is 4 times 4 (-1 to End)? 14
+No. Please try again.
+? 15
+Don't give up!
+? 12
+No. Keep trying.
+? 16
+Keep up the good work!
+
+How much is 5 times 9 (-1 to End)? -1
+
+That's all for now. Bye.
+Press any key to continue . . .
